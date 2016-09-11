@@ -1,0 +1,51 @@
+1+1
+	a.2
+	b.3
+	c.4
+	d.5
+
+2+2
+	a.3
+	b.4
+	c.5
+	d.6
+
+3+3
+	a.5
+	b.4
+	c.6
+	d.7
+
+2*5
+	a.10
+	b.20
+	c.30
+	d.40
+
+1*0 is 1
+	True or False?
+
+33-33
+	a.0
+	b.2
+	c.4
+	d.6
+
+A number times 1 is that number
+	True or False?
+
+0-1
+	a.0
+	b.1
+	c.2
+	d.none of these
+
+my name is jacob
+	True or False?
+
+3/6
+	a..5
+	b.1
+	c..2
+	d..36
+

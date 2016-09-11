@@ -1,0 +1,5 @@
+George Bluth, 8, Science, 98.1
+Emily Bronte, 8, Science, 91.2
+George Washington, 8, Science, 88.7
+Bugsy Malone, 8, Science, 90.2
+Jacob Pawlak, 8, Science, 100.0

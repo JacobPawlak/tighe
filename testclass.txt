@@ -1,0 +1,4 @@
+Jacob Pawlak, Sophomore, Computer Science, 3.5
+Brad Montgomery, Sophomore, Biomedical Engineering, 3.6
+Griffin Webber, Sophpmore, Civil Engineering, 3.5
+Mitchell Archer, Sophomore, Architecture, 3.4
